@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dthur00&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=dthur00&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthur00&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dthur00&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dthur00&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=dthur00&theme=tokyonight)
